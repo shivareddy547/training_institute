@@ -1,0 +1,2 @@
+class MailU < ApplicationRecord
+end
